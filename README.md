@@ -15,7 +15,8 @@
 
 ## 1. 前言
 由於專案資料整合的需求, 需連接至原有 SAP ASE 16.0 進行資料存取, 因此先行在自己筆電建立虛擬機器 (VM), 安裝 SAP ASE 16.0. 所謂的 ASE (Adaptive Server Enterprise) 其實就是 Sybase.  
-Sybase 在 20 幾年前是蠻好的資料庫, 採用 PowerBuilder 開發應用程式, 而且又能與 IBM CICS/COBOL 整合.   當時資料庫的三大供應商是 Oracle / Sybase / Informix, 後來 Sybase 被 SAP 收購, Informix 被 IBM 收購.   筆者目前常接觸的, 大概是 MSSQL (與 Sybase 同源),  Oracle 及 MariaDB (or 付費版的 MySQL).  
+Sybase 在 20 幾年前是蠻好的資料庫, 當年曾採用 PowerBuilder 開發應用程式, 並利用 Sybase 的 Open Client / Open Server 的技術, 與 IBM 大型主機的 CICS/COBOL 串接.   
+當時資料庫的三大供應商是 Oracle / Sybase / Informix, 後來 Sybase 被 SAP 收購, Informix 被 IBM 收購.   筆者目前常接觸的, 大概是 MSSQL (與 Sybase 同源),  Oracle 及 MariaDB (or 付費版的 MySQL).  
 
 ## 2. 安裝環境
 * Windows 10 22H2 Professional Edition  
