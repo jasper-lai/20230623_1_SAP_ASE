@@ -116,7 +116,7 @@ EXEC sp_helpdb;
 > 此為筆者發問, 最後以安裝 VC++ 2015 and later Redistribution 解決.  
 
 * <a href="https://answers.sap.com/questions/13903316/cannot-connect-ase-cockpit-via-browser.html" target="_blank">[7] (SAP Community) (自行提問) Cannot connect ASE Cockpit via browser</a> 
-> 此為筆者發問, 詢問管理工具, 結論如下:  
+> 此為筆者發問, 主要詢問 GUI 管理工具, 結論如下:  
 > (1) Sybase Central: 被消失了, 無法下載.  
 > (2) Cockpit: 跟隨 Adobe Flash Player 停止支援, 也一併不再提供 Web 管理界面.  
 > (3) AMC (Administration and Management Center): 一直安裝失敗.  
